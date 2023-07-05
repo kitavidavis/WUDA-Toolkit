@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WUDA_Toolkit
+build_property.ProjectDir = C:\Users\davis\react-projects\emita\WUDA Toolkit\WUDA Toolkit\
+
+[C:/Users/davis/react-projects/emita/WUDA Toolkit/WUDA Toolkit/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WUDA_Toolkit.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/davis/react-projects/emita/WUDA Toolkit/WUDA Toolkit/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WUDA_Toolkit.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/davis/react-projects/emita/WUDA Toolkit/WUDA Toolkit/Help.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WUDA_Toolkit.Help.xaml
+build_metadata.AdditionalFiles.TargetPath = Help.xaml
+build_metadata.AdditionalFiles.RelativePath = Help.xaml
+
+[C:/Users/davis/react-projects/emita/WUDA Toolkit/WUDA Toolkit/Home.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WUDA_Toolkit.Home.xaml
+build_metadata.AdditionalFiles.TargetPath = Home.xaml
+build_metadata.AdditionalFiles.RelativePath = Home.xaml
+
+[C:/Users/davis/react-projects/emita/WUDA Toolkit/WUDA Toolkit/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WUDA_Toolkit.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Login.xaml
+
+[C:/Users/davis/react-projects/emita/WUDA Toolkit/WUDA Toolkit/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WUDA_Toolkit.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/davis/react-projects/emita/WUDA Toolkit/WUDA Toolkit/Projects.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WUDA_Toolkit.Projects.xaml
+build_metadata.AdditionalFiles.TargetPath = Projects.xaml
+build_metadata.AdditionalFiles.RelativePath = Projects.xaml
+
+[C:/Users/davis/react-projects/emita/WUDA Toolkit/WUDA Toolkit/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WUDA_Toolkit.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/davis/react-projects/emita/WUDA Toolkit/WUDA Toolkit/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WUDA_Toolkit.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/davis/react-projects/emita/WUDA Toolkit/WUDA Toolkit/Settings.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WUDA_Toolkit.Settings.xaml
+build_metadata.AdditionalFiles.TargetPath = Settings.xaml
+build_metadata.AdditionalFiles.RelativePath = Settings.xaml
